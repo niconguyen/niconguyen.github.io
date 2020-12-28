@@ -8,3 +8,9 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+<img src="images/apropos.png" style="width:50%">
+
+> How did everything start?
+
+

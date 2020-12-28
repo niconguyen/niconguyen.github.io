@@ -1,0 +1,10 @@
+---
+title: "Projected Inventories Calculation"
+description: |
+  Fast, simple, and useful!
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

@@ -5,16 +5,72 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
+      "contents": "\r\n\r\n\r\nHow did everything start?\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-28T21:39:08+01:00"
+    },
+    {
+      "path": "cv.html",
+      "title": "my CV",
+      "description": "a short description",
+      "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-28T17:40:05+01:00"
+      "last_modified": "2020-12-28T21:39:09+01:00"
+    },
+    {
+      "path": "drp_calculation.html",
+      "title": "DRP Calculation",
+      "description": "Simple parameters, quick calculation",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-28T21:39:10+01:00"
     },
     {
       "path": "index.html",
-      "title": "Nico Website",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Welcome!",
+      "description": "Some ideas of R codes for Supply Chain analytics. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\nDemand & Supply Planning\r\n\r\n\r\nSales & Operations Planning (S&OP) process\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-28T21:39:11+01:00"
+    },
+    {
+      "path": "links.html",
+      "title": "Some useful links",
+      "description": "APICS and others",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-28T17:40:08+01:00"
+      "last_modified": "2020-12-28T21:39:12+01:00"
+    },
+    {
+      "path": "projected_Inventories.html",
+      "title": "Projected Inventories Calculation",
+      "description": "Fast, simple, and useful!",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-28T21:39:13+01:00"
+    },
+    {
+      "path": "sales_analysis.html",
+      "title": "Actual Sales Analysis",
+      "description": "Perhaps the beginning of Demand Planning",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-28T21:39:14+01:00"
+    },
+    {
+      "path": "sales_forecasting.html",
+      "title": "Sales Forecasting",
+      "description": "A few classic (and useful!) Time Series Statistical Forecasting approaches",
+      "author": [],
+      "contents": "\r\n\r\nMulti Linear Regression (MLR)\r\n\r\n\r\nHolts’Winter (Exponential Time Smoothing - ETS -)\r\n\r\n\r\nARIMA\r\n\r\n\r\nMAPE measurement\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-28T21:39:15+01:00"
+    },
+    {
+      "path": "snop.html",
+      "title": "Sales & Operations Planning (S&OP) process",
+      "description": "R and S&OP",
+      "author": [],
+      "contents": "\r\n\r\nA short Presentation\r\n\r\n\r\n“Starts with Finance and ends with Finance”\r\n\r\n\r\nElaboration of scenarios\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-28T21:39:17+01:00"
     }
   ],
   "collections": []

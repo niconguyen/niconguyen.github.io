@@ -1,0 +1,23 @@
+---
+title: "Sales Forecasting"
+description: |
+  A few classic (and useful!) Time Series Statistical Forecasting approaches
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+> Multi Linear Regression (MLR)
+
+
+> Holts'Winter (Exponential Time Smoothing - ETS -)
+
+
+> ARIMA
+
+
+> MAPE measurement
+
+

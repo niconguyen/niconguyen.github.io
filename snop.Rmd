@@ -1,0 +1,21 @@
+---
+title: "Sales & Operations Planning (S&OP) process"
+description: |
+  R and S&OP
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+> A short Presentation
+
+
+> "Starts with Finance and ends with Finance"
+
+
+> Elaboration of scenarios
+
+
+

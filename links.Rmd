@@ -1,0 +1,10 @@
+---
+title: "Some useful links"
+description: |
+  APICS and others
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
