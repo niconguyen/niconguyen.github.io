@@ -1,0 +1,16 @@
+---
+title: "R and Supply Chain Management?"
+description: |
+  let's just give up excel?
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+> APICS
+
+
+> 4 different types of analytics
+

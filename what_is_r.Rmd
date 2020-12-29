@@ -1,0 +1,10 @@
+---
+title: "What is R?"
+description: |
+  an awesome programming language
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

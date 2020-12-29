@@ -10,3 +10,68 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
+> EDUCATION
+
+Sep 2003 - Sep 2004  
+**Master Transportation & Logistics**  
+<span style="color:gray">UNIVERSITE LYON 2 (Lyon, France)</span>  
+
+Sep 2000 - Sep 2003   
+**Mechanical Engineer**  
+<span style="color:gray">INSA LYON (Lyon, France)</span>  
+  
+Sep 2001 - Sep 2002     
+**Exchange Student (Erasmus program)**  
+<span style="color:gray">UPC ETSEIB BARCELONA (Barcelona, Spain)</span>   
+
+Sep 1998 - Jun 2000       
+**PTSI-PT**  
+<span style="color:gray">PREPARATORY CLASSES (Tarbes, France)</span>   
+
+
+> WORK EXPERIENCE
+
+Current - Since Apr 2019  
+**DIGITAL SUPPLY CHAIN AND GLOBAL S&OP LEADER**  
+<span style="color:gray">CARL ZEISS Meditec (La Rochelle, France)</span>    
+
+Apr 2018 - Mar 2019  
+**SUPPLY CHAIN DEVELOPMENT MANAGER**  
+<span style="color:gray">Pierre Fabre Dermo-Cosmetique (Lavaur, France)</span>  
+
+Mar 2015 - Mar 2018  
+**HEAD OF SUPPLY CHAIN ASIA**  
+<span style="color:gray">Merial (Singapore)</span>    
+
+May 2012 - Mar 2015  
+**AJPAC MARKET SUPPLY CHAIN MANAGER**  
+<span style="color:gray">Sanofi (Singapore)</span>  
+
+Mar 2010 - May 2012    
+**SOUTH EAST ASIA + AU/NZ SUPPLY CHAIN COORDINATOR**  
+<span style="color:gray">Sanofi Pasteur (Singapore)</span>  
+
+Oct 2006 - Feb 2010   
+**DEMAND MANAGER**  
+<span style="color:gray">Sanofi (Tours, France)</span>  
+ 
+Oct 2005 - Oct 2006     
+**VIE TOLL- IN MANUFACTURING**  
+<span style="color:gray">Sanofi (Tokyo, Japan)</span>  
+
+Sep 2004 - Sep 2005    
+**EXTERNAL MANUFACTURING LOGISTICIAN**  
+<span style="color:gray">Sanofi (Paris, France)</span>  
+
+Mar 2004 - Sep 2004      
+**METHODS ENGINEER ( INTERNSHIP)**  
+<span style="color:gray">Sanofi (Bordeaux, France)</span>  
+  
+
+
+> TEACHING EXPERIENCE
+
+Current - Since Oct 2020      
+**DIGITAL SUPPLY CHAIN**  
+<span style="color:gray">Excelia Group (La Rochelle, France)</span>  
+

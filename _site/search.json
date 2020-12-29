@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\nHow did everything start?\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-28T21:39:08+01:00"
+      "last_modified": "2020-12-29T22:06:27+01:00"
     },
     {
       "path": "cv.html",
       "title": "my CV",
       "description": "a short description",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-28T21:39:09+01:00"
+      "contents": "\r\n\r\nEDUCATION\r\n\r\nSep 2003 - Sep 2004Master Transportation & LogisticsUNIVERSITE LYON 2 (Lyon, France)\r\nSep 2000 - Sep 2003Mechanical EngineerINSA LYON (Lyon, France)\r\nSep 2001 - Sep 2002Exchange Student (Erasmus program)UPC ETSEIB BARCELONA (Barcelona, Spain)\r\nSep 1998 - Jun 2000PTSI-PTPREPARATORY CLASSES (Tarbes, France)\r\n\r\nWORK EXPERIENCE\r\n\r\nCurrent - Since Apr 2019DIGITAL SUPPLY CHAIN AND GLOBAL S&OP LEADERCARL ZEISS Meditec (La Rochelle, France)\r\nApr 2018 - Mar 2019SUPPLY CHAIN DEVELOPMENT MANAGERPierre Fabre Dermo-Cosmetique (Lavaur, France)\r\nMar 2015 - Mar 2018HEAD OF SUPPLY CHAIN ASIAMerial (Singapore)\r\nMay 2012 - Mar 2015AJPAC MARKET SUPPLY CHAIN MANAGERSanofi (Singapore)\r\nMar 2010 - May 2012SOUTH EAST ASIA + AU/NZ SUPPLY CHAIN COORDINATORSanofi Pasteur (Singapore)\r\nOct 2006 - Feb 2010DEMAND MANAGERSanofi (Tours, France)\r\nOct 2005 - Oct 2006VIE TOLL- IN MANUFACTURINGSanofi (Tokyo, Japan)\r\nSep 2004 - Sep 2005EXTERNAL MANUFACTURING LOGISTICIANSanofi (Paris, France)\r\nMar 2004 - Sep 2004METHODS ENGINEER ( INTERNSHIP)Sanofi (Bordeaux, France)\r\n\r\nTEACHING EXPERIENCE\r\n\r\nCurrent - Since Oct 2020DIGITAL SUPPLY CHAINExcelia Group (La Rochelle, France)\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-29T22:06:28+01:00"
     },
     {
       "path": "drp_calculation.html",
@@ -22,15 +22,15 @@
       "description": "Simple parameters, quick calculation",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-28T21:39:10+01:00"
+      "last_modified": "2020-12-29T22:06:29+01:00"
     },
     {
       "path": "index.html",
       "title": "Welcome!",
       "description": "Some ideas of R codes for Supply Chain analytics. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\nDemand & Supply Planning\r\n\r\n\r\nSales & Operations Planning (S&OP) process\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-28T21:39:11+01:00"
+      "contents": "\r\n\r\n\r\nDemand & Supply Planning\r\n\r\n\r\nSales & Operations Planning (S&OP) process\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-29T22:06:30+01:00"
     },
     {
       "path": "links.html",
@@ -38,7 +38,7 @@
       "description": "APICS and others",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-28T21:39:12+01:00"
+      "last_modified": "2020-12-29T22:06:32+01:00"
     },
     {
       "path": "projected_Inventories.html",
@@ -46,7 +46,15 @@
       "description": "Fast, simple, and useful!",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-28T21:39:13+01:00"
+      "last_modified": "2020-12-29T22:06:33+01:00"
+    },
+    {
+      "path": "r_and_scm.html",
+      "title": "R and Supply Chain Management?",
+      "description": "let's just give up excel?",
+      "author": [],
+      "contents": "\r\n\r\nAPICS\r\n\r\n\r\n4 different types of analytics\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-29T22:06:34+01:00"
     },
     {
       "path": "sales_analysis.html",
@@ -54,7 +62,7 @@
       "description": "Perhaps the beginning of Demand Planning",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-28T21:39:14+01:00"
+      "last_modified": "2020-12-29T22:06:35+01:00"
     },
     {
       "path": "sales_forecasting.html",
@@ -62,7 +70,7 @@
       "description": "A few classic (and useful!) Time Series Statistical Forecasting approaches",
       "author": [],
       "contents": "\r\n\r\nMulti Linear Regression (MLR)\r\n\r\n\r\nHolts’Winter (Exponential Time Smoothing - ETS -)\r\n\r\n\r\nARIMA\r\n\r\n\r\nMAPE measurement\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-28T21:39:15+01:00"
+      "last_modified": "2020-12-29T22:06:36+01:00"
     },
     {
       "path": "snop.html",
@@ -70,7 +78,15 @@
       "description": "R and S&OP",
       "author": [],
       "contents": "\r\n\r\nA short Presentation\r\n\r\n\r\n“Starts with Finance and ends with Finance”\r\n\r\n\r\nElaboration of scenarios\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-28T21:39:17+01:00"
+      "last_modified": "2020-12-29T22:06:37+01:00"
+    },
+    {
+      "path": "what_is_r.html",
+      "title": "What is R?",
+      "description": "an awesome programming language",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-29T22:06:39+01:00"
     }
   ],
   "collections": []

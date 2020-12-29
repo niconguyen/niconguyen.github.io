@@ -16,6 +16,10 @@ navbar:
     - text: "About"
     #- icon: fa-info-circle
       href: about.html
+    - text: "What is R?"
+      href: what_is_r.html
+    - text: "R and Supply Chain Management"
+      href: r_and_scm.html
     - text: "Gallery"
       menu:
         - text: "Sales Analysis"
