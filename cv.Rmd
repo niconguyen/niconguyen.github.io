@@ -73,5 +73,5 @@ Mar 2004 - Sep 2004
 
 Current - Since Oct 2020      
 **DIGITAL SUPPLY CHAIN**  
-<span style="color:gray">Excelia Group (La Rochelle, France)</span>  
+<img src="images/excelia.png" style="width:8%"> <span style="color:gray">Excelia Group (La Rochelle, France)</span>  
 

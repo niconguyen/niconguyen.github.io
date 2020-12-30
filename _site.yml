@@ -22,20 +22,34 @@ navbar:
       href: r_and_scm.html
     - text: "Gallery"
       menu:
+        - text: "Descriptive Analytics"
         - text: "Sales Analysis"
           href: sales_analysis.html
         - text: "---"
-        - text: "Sales Forecasting"
+        - text: "Predictive Analytics"
+        - text: "Time Series Sales Forecasting"
           href: sales_forecasting.html
-        - text: "---"
         - text: "Projected Inventories"
           #icon: fa-road
           href: projected_Inventories.html
+        - text: "---"
         - text: "DRP Calculation"
-          href: drp_calculation.html
+        - text: "Single level"
+          href: single_drp_calculation.html
+        - text: "Multiple levels"
+          href: multiple_drp_calculation.html
         - text: "---"
         - text: "Sales & Operations Planning (S&OP)"
           href: snop.html
+        - text: "---"
+        - text: "Others"
+        - text: "Promo Packs & Kits Demand Calculation"
+          href: promo_packs_and_kits_demand_calculation.html
+        - text: "Short Shelf Life"
+          href: ssl.html
+        - text: "Products Substition"
+          href: products_substitution.html
+      
       
     #- text: "CV"
     - icon: fa-user

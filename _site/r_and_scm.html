@@ -87,27 +87,27 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_meta_tags-->
   <title>Open source solutions for Supply Chain Analytics based on R: R and Supply Chain Management?</title>
 
-  <meta property="description" itemprop="description" content="let&#39;s just give up excel?"/>
+  <meta property="description" itemprop="description" content="so everything becomes (almost) easy?"/>
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
   <meta property="og:title" content="Open source solutions for Supply Chain Analytics based on R: R and Supply Chain Management?"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="let&#39;s just give up excel?"/>
+  <meta property="og:description" content="so everything becomes (almost) easy?"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Open source solutions for Supply Chain Analytics based on R"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
   <meta property="twitter:title" content="Open source solutions for Supply Chain Analytics based on R: R and Supply Chain Management?"/>
-  <meta property="twitter:description" content="let&#39;s just give up excel?"/>
+  <meta property="twitter:description" content="so everything becomes (almost) easy?"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["R and Supply Chain Management?"]},{"type":"character","attributes":{},"value":["let's just give up excel?"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output"]}},"value":[{"type":"character","attributes":{},"value":["R and Supply Chain Management?"]},{"type":"character","attributes":{},"value":["so everything becomes (almost) easy?\n"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2005,7 +2005,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"R and Supply Chain Management?","description":"let's just give up excel?","authors":[]}
+{"title":"R and Supply Chain Management?","description":"so everything becomes (almost) easy?","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2031,14 +2031,23 @@ Gallery
 <span class="down-arrow">&#x25BE;</span>
 </button>
 <div class="nav-dropdown-content">
+<span class="nav-dropdown-header">Descriptive Analytics</span>
 <a href="sales_analysis.html">Sales Analysis</a>
 <hr/>
-<a href="sales_forecasting.html">Sales Forecasting</a>
-<hr/>
+<span class="nav-dropdown-header">Predictive Analytics</span>
+<a href="sales_forecasting.html">Time Series Sales Forecasting</a>
 <a href="projected_Inventories.html">Projected Inventories</a>
-<a href="drp_calculation.html">DRP Calculation</a>
+<hr/>
+<span class="nav-dropdown-header">DRP Calculation</span>
+<a href="single_drp_calculation.html">Single level</a>
+<a href="multiple_drp_calculation.html">Multiple levels</a>
 <hr/>
 <a href="snop.html">Sales &amp; Operations Planning (S&amp;OP)</a>
+<hr/>
+<span class="nav-dropdown-header">Others</span>
+<a href="promo_packs_and_kits_demand_calculation.html">Promo Packs &amp; Kits Demand Calculation</a>
+<a href="ssl.html">Short Shelf Life</a>
+<a href="products_substitution.html">Products Substition</a>
 </div>
 </div>
 <a href="cv.html">
@@ -2062,17 +2071,34 @@ Gallery
 <h1>R and Supply Chain Management?</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>let’s just give up excel?</p></p>
+<p><p>so everything becomes (almost) easy?</p></p>
 </div>
 
 
 <div class="d-article">
-<blockquote>
-<p>APICS</p>
-</blockquote>
-<blockquote>
-<p>4 different types of analytics</p>
-</blockquote>
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
+<ul>
+<li><a href="#apics-sop-and-digital-supply-chain">APICS: S&amp;OP and digital supply chain</a></li>
+<li><a href="#different-types-of-analytics">4 different types of analytics</a></li>
+<li><a href="#descriptive-predictive-prescriptive-analytics">Descriptive Predictive Prescriptive analytics</a></li>
+</ul>
+</nav>
+</div>
+<h2 id="apics-sop-and-digital-supply-chain">APICS: S&amp;OP and digital supply chain</h2>
+<p>A few months ago, <strong>APICS</strong> published <a href="https://https://www.ascm.org/ascm-blog/sop-and-the-digital-supply-chain/?utm_source=LinkedIn&amp;utm_medium=social&amp;utm_campaign=ASCMblog2019&amp;utm_content=03292019">an article</a> about the use of R and Python to manage the Sales and Operations Planning (S&amp;OP) process.</p>
+<p>Here are some extracts:<br />
+<strong>THE S&amp;OP INNOVATIONS TO WATCH</strong></p>
+<p><strong>PREDICTIVE ANALYTICS</strong> involves mining information from data sets in order to identify useful patterns and forecast the likelihood of future events. As increased supply chain complexity puts pressure on even the most well-run S&amp;OP processes, accurate demand planning via predictive analytics is a valuable advantage. Supply chain management professionals can benefit by using predictive analytics to analyze and consolidate data from all areas of the enterprise in order to make informed, effective, real-time decisions.</p>
+<p><strong>PROBABILISTIC MODELING</strong> involves statistical analysis of historical data in order to estimate the chance of an event occurring again. In S&amp;OP, it makes it possible for supply chain management professionals to identify unknown risks and develop contingency plans.</p>
+<p><strong>PYTHON AND R</strong> are open-source programming languages. R is most often used to solve statistical problems, machine learning and data science. It also offers packages that enable users to perform time series analysis, panel data and data mining. Python offers a more wideranging, data science methodology. <strong>Both can meaningfully enhance the S&amp;OP process</strong>.</p>
+<p><strong>APACHE HADOOP AND SPARK</strong> can process large data sets with simple programming models. These solutions can create more accurate analytic decisions in response to the internet of things, artificial intelligence, the cloud and mobile. Hadoop also helps users optimize enterprise data warehouses, drive better decision-making and cut costs by moving “cold” or siloed data to a data lake.</p>
+<p><img src="images/apics_snop.JPG" /></p>
+<h2 id="different-types-of-analytics">4 different types of analytics</h2>
+<p><img src="images/4stages_sc_analytics.jpg" /></p>
+<h2 id="descriptive-predictive-prescriptive-analytics">Descriptive Predictive Prescriptive analytics</h2>
+<p><img src="images/descriptive_predictive_prescriptive_analytics.jpg" /></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

@@ -107,7 +107,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["What is R?"]},{"type":"character","attributes":{},"value":["an awesome programming language"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output"]}},"value":[{"type":"character","attributes":{},"value":["What is R?"]},{"type":"character","attributes":{},"value":["an awesome programming language\n"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2031,14 +2031,23 @@ Gallery
 <span class="down-arrow">&#x25BE;</span>
 </button>
 <div class="nav-dropdown-content">
+<span class="nav-dropdown-header">Descriptive Analytics</span>
 <a href="sales_analysis.html">Sales Analysis</a>
 <hr/>
-<a href="sales_forecasting.html">Sales Forecasting</a>
-<hr/>
+<span class="nav-dropdown-header">Predictive Analytics</span>
+<a href="sales_forecasting.html">Time Series Sales Forecasting</a>
 <a href="projected_Inventories.html">Projected Inventories</a>
-<a href="drp_calculation.html">DRP Calculation</a>
+<hr/>
+<span class="nav-dropdown-header">DRP Calculation</span>
+<a href="single_drp_calculation.html">Single level</a>
+<a href="multiple_drp_calculation.html">Multiple levels</a>
 <hr/>
 <a href="snop.html">Sales &amp; Operations Planning (S&amp;OP)</a>
+<hr/>
+<span class="nav-dropdown-header">Others</span>
+<a href="promo_packs_and_kits_demand_calculation.html">Promo Packs &amp; Kits Demand Calculation</a>
+<a href="ssl.html">Short Shelf Life</a>
+<a href="products_substitution.html">Products Substition</a>
 </div>
 </div>
 <a href="cv.html">
@@ -2067,6 +2076,59 @@ Gallery
 
 
 <div class="d-article">
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
+<ul>
+<li><a href="#what-is-r">What is R?</a></li>
+<li><a href="#how-easy-and-powerful-it-is">How easy and powerful it is?</a></li>
+<li><a href="#some-examples-of-charts">Some examples of Charts</a></li>
+<li><a href="#some-examples-of-tables">Some examples of Tables</a></li>
+<li><a href="#r-shiny">R Shiny!</a></li>
+</ul>
+</nav>
+</div>
+<h2 id="what-is-r">What is R?</h2>
+<p><strong>Programming language:</strong></p>
+<ul>
+<li><p><strong>script which works like a “full program”</strong> (similar to an Excel macro) and like a command for a punctual action</p></li>
+<li><p><strong>created by / for statisticians</strong>: “working with data” is at the heart of this platform</p></li>
+<li><p><strong>open source (free)</strong>: though some services / supports could be invoiced, the core of the platform is fully free<br />
+</p></li>
+<li><p><strong>supported by a very large community</strong>: the users base of R is over the ones of SPSS and SAS (but not yet Excel!); the digital analytists community of R grows quickly</p></li>
+<li><p><strong>connectable with multiple sources of data</strong>: several “packages” have been created to connect to platforms of digital analytics through their APIs, as well as to Google Sheets</p></li>
+</ul>
+<blockquote>
+<p>Why using R (instead of Excel?) ?</p>
+</blockquote>
+<p>In a few words:<br />
+* <strong>reproducibility</strong>: possibility to write a function (or a script) for one project / client and to <strong>reuse</strong> it for others<br />
+* <strong>flexibility</strong>: a lot (yes, really a lot) of open source packages to realize powerful operations<br />
+* <strong>evolution / extensions</strong>: (much more than Excel!) can be used on the cloud with the same code<br />
+* <strong>operability</strong>: works with (almost) the same code on Linux, Mac and Windows</p>
+<p><img src="images/stop_excel.png" /></p>
+<h2 id="how-easy-and-powerful-it-is">How easy and powerful it is?</h2>
+<blockquote>
+<p>Learning Curve &amp; (best) Capability rating</p>
+</blockquote>
+<p><strong>6 goods reasons</strong> mentionned by <a href="https://www.r-bloggers.com/six-reasons-to-learn-r-for-business/">Rbloggers</a></p>
+<ul>
+<li>Reason 1: R Has The Best Overall Qualities<br />
+</li>
+<li>Reason 2: R Is Data Science For Non-Computer Scientists<br />
+</li>
+<li>Reason 3: Learning R Is Easy With The Tidyverse<br />
+</li>
+<li>Reason 4: R Has Brains, Muscle, And Heart<br />
+</li>
+<li>Reason 5: R Is Built For Business<br />
+</li>
+<li>Reason 6: R Community Support</li>
+</ul>
+<p><img src="images/ds4b_rating.png" /></p>
+<h2 id="some-examples-of-charts">Some examples of Charts</h2>
+<h2 id="some-examples-of-tables">Some examples of Tables</h2>
+<h2 id="r-shiny">R Shiny!</h2>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
